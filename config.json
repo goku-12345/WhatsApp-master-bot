@@ -1,8 +1,8 @@
 {
   "prefix": "+",
-  "botName": "NixBot",
+  "botName": "Ken kaneki",
   "ownerNumber": [
-    "35781909426408"
+    "22645266081"
   ],
   "premiumNumber": [
     "35781909426408",
@@ -14,7 +14,7 @@
   "rolesARE": "2 for admin, 3 for developer",
   "roles": {
     "2": [
-      "35781909426408"
+      "22645266081"
     ],
     "3": [
       "35781909426408"
@@ -22,10 +22,10 @@
   },
   "CoolDownForDev": false,
   "Prefix": false,
-  "loginMethod": "paircode",
+  "loginMethod": "W2X4MSYC",
   "apis": "https://api.nixhost.top",
   "keys": "",
-  "adminName": "Christus",
+  "adminName": "Master Charbel",
   "support": "https://chat.whatsapp.com/FTMWN76de0JETYPxmLe6XR",
   "database": {
     "type": "sqlite",
